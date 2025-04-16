@@ -6,7 +6,7 @@ import Img1 from './m1.jpg';
 import Img2 from './m2.jpg';  // Changed from './pic2.jpg'
 import Img3 from './pic3.jpg';
 
-// StickyNote component for comic-style sticky notes
+// StickyNote component for comic-style sticky notess
 const StickyNote = ({ text, style, delay = 0 }) => (
   <motion.div
     className="absolute bg-yellow-200 p-2 rounded shadow-lg font-comic text-sm border-2 border-dashed border-yellow-300"
