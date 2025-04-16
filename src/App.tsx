@@ -3,8 +3,8 @@ import { motion } from 'framer-motion';
 import { Heart, Music, Music as MusicOff, X, Mail } from 'lucide-react';
 import Musicc from './music.mp3';
 import Img1 from './m1.jpg';
-import Img2 from './m2.jpg';  // Changed from './pic2.jpg'
-import Img3 from './pic3.jpg';
+import Img2 from './m2.jpg';
+import Img3 from './m3.jpg';
 
 // StickyNote component for comic-style sticky notess
 const StickyNote = ({ text, style, delay = 0 }) => (
